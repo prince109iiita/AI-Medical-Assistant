@@ -48,7 +48,7 @@ MedAgent AI is a full-stack web application that connects users with specialized
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/priyanshyou/AI-Medical-Assistant.git
+git clone https://github.com/prince109iiita/AI-Medical-Assistant.git
 cd AI-Medical-Assistant
 ```
 
@@ -161,30 +161,3 @@ The app includes 10 specialized AI doctor agents, each configured with a unique 
 | GET/POST | /api/session-chat | Manage voice session transcripts |
 | POST | /api/suggest-doctor | Get AI-based specialist recommendation |
 
----
-
-## Deployment
-
-The easiest way to deploy this app is with Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/priyanshyou/AI-Medical-Assistant)
-
-Make sure to add all the environment variables listed above in your Vercel project settings before deploying.
-
----
-
-## Disclaimer
-
-MedAgent AI is built for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
-
----
-
-## Author
-
-Priyansh — @priyanshyou
-
----
-
-## License
-
-This project is open-source and available under the MIT License (LICENSE).
